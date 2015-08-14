@@ -1,6 +1,7 @@
 name:           axfive-repo
 Version:        1.0
-Release:        0%{?dist}
+Release:        0
+BuildArch:      noarch
 Summary:        axfive repository rpm
 
 Group:          System Environment/Base
