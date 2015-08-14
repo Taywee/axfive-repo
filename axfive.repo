@@ -1,0 +1,5 @@
+[axfive]
+name=AxFive repository
+baseurl=http://rpm.axfive.net/centos/$releasever/$basearch/
+enabled=1
+gpgcheck=1
