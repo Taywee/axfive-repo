@@ -1,4 +1,5 @@
 #!/bin/sh
+# This is for the build hosts, to pull and build spec files
 
 for repo in ~/repos/*; do
     pushd "$repo"
